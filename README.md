@@ -6,22 +6,15 @@
 
 <!-- Badges principais -->
 <p align="center">
-  <!-- Ecossistema Apple -->
-  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=xcode&logoColor=white"/>
-  
-  <!-- UI -->
-  <img src="https://img.shields.io/badge/UIKit-%232396F3.svg?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-%23007AFF.svg?style=for-the-badge&logo=swift&logoColor=white"/>
-  
-  <!-- Arquitetura e Qualidade (Sem logo específico, mas com cores de destaque) -->
-  <img src="https://img.shields.io/badge/Clean_Architecture-%234B32C3.svg?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM--C-%238A2BE2.svg?style=for-the-badge&logoColor=white"/>
-  
-  <!-- Ferramentas -->
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-4B32C3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVVM--C-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ---
