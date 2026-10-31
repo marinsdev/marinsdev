@@ -17,48 +17,55 @@
 
 ---
 
-## 🧠 Sobre Mim
+## 👩🏻‍💻 Resumo Profissional
 
-Sou **Desenvolvedora Java** e estudante de **Engenharia de Computação**, formada como **Técnica em Desenvolvimento de Sistemas**.  
-Atualmente faço parte do programa **Devs do Agi (Agibank)**, onde desenvolvo aplicações com **Java, Spring Boot e MySQL**, aplicando boas práticas, eficiência e versionamento com **Git/GitHub**.
+Desenvolvedora iOS com sólida experiência no setor bancário e financeiro, atuando no desenvolvimento de jornadas de crédito complexas para milhões de usuários. Forte vivência no ecossistema Apple (**Swift, UIKit e SwiftUI**), com atuação prática em arquiteturas modulares (**Clean Architecture, MVVM, Coordinators**) e integração com APIs/BFFs. 
+
+Perfil com alta autonomia, orientado à resolução de problemas e focado na qualidade de software, com entregas expressivas na redução de dívida técnica (SwiftLint), criação de componentes de Design System e testes automatizados (Swift Testing). Busco atuar na engenharia de produtos digitais, garantindo estabilidade, código limpo e a melhor experiência para o usuário final.
+
+---
+
+## 🛠 Stack Tecnológica e Competências
+
+* **Linguagem:** Swift (Avançado), Orientação a Protocolos, Closures, Concurrency (Async/Await).
+* **Interface (UI/UX):** ViewCode (UIKit), SwiftUI, consumo e manutenção de Design Systems, AutoLayout.
+* **Arquitetura & Engenharia:** Clean Architecture, MVVM, Coordinators, Modularização, Injeção de Dependência, Padrão Harmonize.
+* **Qualidade & Testes:** Swift Testing, XCTest, Testes Unitários, SwiftLint (padronização e linting).
+* **Integrações & Dados:** Consumo de APIs RESTful, BFF (Backend for Frontend), manipulação de JSON, gerenciamento de estados e cache.
+* **Ferramentas & Processos:** Git/GitLab (CI/CD), Jira, metodologias ágeis (Scrum/Kanban), Code Review.
+## 💼 Experiência Profissional
 
 ---
 
 ## 💼 Experiência Profissional
 
-### 🧩 **Trainee – Devs do Agi | Agibank**  
-📍 Campinas, SP — *Jul 2025 – Atual*  
-- Desenvolvimento de aplicações em **Java e Spring Boot**.  
-- Criação e consumo de **APIs RESTful**.  
-- Modelagem e manipulação de **banco de dados MySQL**.  
-- Colaboração e versionamento com **Git/GitHub**.  
-- Participação em **sprints, dailies e reviews** no modelo **Scrum**.  
-- Projeto final: **API de simulação de compra e venda de criptomoedas.**
+### **Agibank** | Desenvolvedora iOS
+*Julho de 2025 – O momento*
 
-### 🔧 **Supervisora de Projetos – AIoT Solution**  
-📍 Campinas, SP — *Abr 2025 – Ago 2025*  
-- Coordenação de projetos de implantação de **CFTV**.  
-- Gestão de equipes, cronogramas e qualidade de entrega.
+Atuação em squad core de crédito, desenvolvendo e mantendo soluções escaláveis para o aplicativo bancário, impactando diretamente a jornada financeira do cliente.
+
+* **Desenvolvimento de Jornadas de Crédito:** Implementação *end-to-end* da nova Home de Crédito e da aba de Contratos, integrando a exibição de mais de 30 tipos de produtos financeiros. Desenvolvimento de fluxos *headless* (Fast Track) para otimização e redução de atrito no funil de contratação.
+* **Governança Arquitetural:** Atuação direta na implementação do padrão *Harmonize* em múltiplos módulos de negócio, ajudando a centralizar a comunicação entre `UseCases`, `Repositories` e `ViewModels` para garantir uma base de código escalável e desacoplada.
+* **Qualidade de Código e Testes:** Responsável pela adequação de mais de 10 módulos críticos do app às rigorosas normas do *SwiftLint*, reduzindo a dívida técnica do projeto. Execução da migração de suítes de testes legadas para o framework nativo *Swift Testing*, melhorando a confiabilidade e a performance dos builds.
+* **Design System & UI:** Contribuição ativa para o *Ciano Design System* (biblioteca interna do banco). Desenvolvimento de componentes visuais reutilizáveis (como gráficos Donut e cards de garantias), focando na padronização da interface e na agilidade para a criação de novas telas.
+* **Estabilidade e Resiliência Operacional:** Atuação na resolução de bugs críticos em produção (falhas de cache, crashes na contratação, ajustes da camada de *Coordinators*) e implementação de lógicas complexas de "ganchos de saída" em fluxos de portabilidade e integração com a CTPS Digital.
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação Acadêmica
 
-🎓 **Engenharia de Computação** — *UNIVESP*  
-📅 Ago 2024 – Jun 2029  
+* **Bacharelado em Engenharia de Computação**  
+  Universidade Virtual do Estado de São Paulo (UNIVESP) | *Em andamento*
 
-🎓 **Técnico em Desenvolvimento de Sistemas** — *ETEC*  
-📅 Concluído
+* **Técnico em Desenvolvimento de Sistemas**  
+  ETEC - Itapeva/SP | *Concluído*
 
 ---
 
-## ⚙️ Habilidades Técnicas
+## 📜 Cursos e Certificações
 
-- **Back-end:** Java, Spring Boot, JPA, Hibernate  
-- **Banco de Dados:** MySQL, Modelagem Relacional  
-- **Front-end:** HTML, CSS, JavaScript  
-- **Metodologias:** Scrum, Kanban  
-- **Versionamento:** Git, GitHub  
+* **Desenvolvimento de Interfaces com SwiftUI** – Capacitação *In-Company* (Agibank).  
+  *(Foco na construção de interfaces declarativas, gerenciamento de estados e modernização de UI no ecossistema Apple).*
 
 ---
 
