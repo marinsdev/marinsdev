@@ -1,21 +1,39 @@
 <!-- Banner -->
-<h1 align="center"> Olá, eu sou a Gisele Marins</h1>
-<h3 align="center">Desenvolvedora Java | Spring Boot | MySQL | APIs REST | Engenharia de Computação</h3>
+<h1 align="center"> Olá, eu sou a Gisele Marins 👩🏻‍💻</h1>
+<h3 align="center">Desenvolvedora iOS Pleno | Swift | Clean Architecture | SwiftUI & UIKit | Engenharia de Computação</h3>
 
 ---
 
 <!-- Badges principais -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <!-- Ecossistema Apple -->
+  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=xcode&logoColor=white"/>
+  
+  <!-- UI -->
+  <img src="https://img.shields.io/badge/UIKit-%232396F3.svg?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-%23007AFF.svg?style=for-the-badge&logo=swift&logoColor=white"/>
+  
+  <!-- Arquitetura e Qualidade (Sem logo específico, mas com cores de destaque) -->
+  <img src="https://img.shields.io/badge/Clean_Architecture-%234B32C3.svg?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM--C-%238A2BE2.svg?style=for-the-badge&logoColor=white"/>
+  
+  <!-- Ferramentas -->
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=Jira&logoColor=white"/>
 </p>
 
 ---
+
+<!-- Resumo Rápido para quem visita o perfil -->
+<p align="center">
+  Atuando no desenvolvimento de <b>jornadas de crédito complexas</b> no setor bancário (Fintechs).<br>
+  Foco em <b>código limpo, escalabilidade, modularização</b> e redução de dívida técnica.
+</p>
+
+---
+
 
 ## 👩🏻‍💻 Resumo Profissional
 
